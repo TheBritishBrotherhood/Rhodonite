@@ -69,5 +69,6 @@
     GameRegistry.addShapedRecipe(new ItemStack(DevItem.rhodonitechest), "x x", "ses", "xxx", 'x', DevItem.RhodoniteIngot, 's', DevItem.InfusedRhodoniteCrystal, 'e', DevItem.HeartOfRhodonite);
     GameRegistry.addShapedRecipe(new ItemStack(DevItem.rhodonitelegs), "xxx", "x x", "x x", 'x', DevItem.RhodoniteIngot);
     GameRegistry.addShapedRecipe(new ItemStack(DevItem.rhodoniteboots), "   ", "x x", "s s", 'x', DevItem.RhodoniteIngot, 's', DevBlock.RhodoniteBlock);
+    GameRegistry.addShapedRecipe(new ItemStack(DevItem.rhodoniteshovel), "  x", " s ", "f  ", 'x', DevItem.RhodoniteIngot, 's', DevItem.HeartOfRhodonite, 'f', Items.STICK );
    }
  }
