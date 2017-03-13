@@ -1,0 +1,38 @@
+//Rhodonite
+itemGroup.Rhodonite=Rhodonite
+
+//Tools
+item.rhodonitesword.name=Rhodonite Sword
+item.rhodonitepickaxe.name=Rhodonite Pickaxe
+item.RhodoniteSwordNoodle.name=Rhodonite Sword (basic)
+item.RhodoniteBow.name=Rhodonite Bow
+
+//Items
+item.Saw.name=Saw
+item.RhodoniteIngot.name=Rhodonite Ingot
+item.RhodoniteDust.name=Rhodonite Dust
+item.RhodoniteCrystal.name=Rhodonite Crystal
+item.InfusedRhodoniteCrystal.name=Infused Rhodonite Crystal
+item.HeartOfRhodonite.name=Heart Of Rhodonite
+item.RhodoniteSwordHandle.name=Rhodonite Sword Handle
+item.RhodoniteSwordBlade.name=Rhodonite Sword Blade
+item.RhodoniteSharpeningKit.name=Rhodonite Sharpening Kit
+item.RhodoniteNugget.name=Rhodonite Nugget
+
+//Armor
+item.rhodonitehelmet.name=Rhodonite Helmet
+item.rhodonitechest.name=Rhodonite Chestplate
+item.rhodonitelegs.name=Rhodonite Leggins
+item.rhodoniteboots.name=Rhodonite Boots
+
+//Consumables
+item.RhodoniteApple.name=Rhodonite Apple
+
+//Ores & Blocks
+tile.RhodoniteOre.name=Rhodonite Ore
+tile.RhodoniteBlock.name=Rhodonite Block
+
+
+
+
+
