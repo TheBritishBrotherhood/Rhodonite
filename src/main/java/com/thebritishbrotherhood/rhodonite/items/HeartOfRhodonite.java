@@ -32,7 +32,7 @@
      int k = (int)(entity.prevPosZ + (entity.posZ - entity.prevPosZ) * var4);
 
      if (Math.random() * 100.0D <= 15.0D) {
-       world.createExplosion((net.minecraft.entity.Entity)null, i, j, k, 2.0F, false);
+       world.createExplosion(null, i, j, k, 2.0F, false);
      }
    }
 

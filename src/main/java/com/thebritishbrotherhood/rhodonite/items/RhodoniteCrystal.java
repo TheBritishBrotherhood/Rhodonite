@@ -1,11 +1,12 @@
  package com.thebritishbrotherhood.rhodonite.items;
 
+ import com.thebritishbrotherhood.rhodonite.ItemModelProvider;
  import com.thebritishbrotherhood.rhodonite.Rhodonite;
 
 
 import net.minecraft.item.Item;
 
- public class RhodoniteCrystal extends Item implements com.thebritishbrotherhood.rhodonite.ItemModelProvider
+ public class RhodoniteCrystal extends Item implements ItemModelProvider
  {
    public RhodoniteCrystal()
    {

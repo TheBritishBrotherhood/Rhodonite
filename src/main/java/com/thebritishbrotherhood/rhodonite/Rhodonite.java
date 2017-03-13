@@ -17,11 +17,11 @@
  import net.minecraftforge.fml.common.registry.GameRegistry;
 
 
- @Mod(modid="rhodonite", name="rhodonite", version="0.0.1", acceptedMinecraftVersions="[1.10.2]")
+ @Mod(modid=Rhodonite.MODID, name=Rhodonite.NAME, version=Rhodonite.VERSION, acceptedMinecraftVersions="[1.10.2]")
  public class Rhodonite
  {
    public static final String MODID = "rhodonite";
-   public static final String VERSION = "0.0.1";
+   public static final String VERSION = "0.0.2";
    public static final String NAME = "rhodonite";
    public static Item item;
    public static final CreativeTabs tab = new creativetab("Rhodonite");
