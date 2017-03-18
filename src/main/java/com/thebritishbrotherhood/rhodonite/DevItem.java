@@ -4,13 +4,7 @@
  import com.thebritishbrotherhood.rhodonite.Tools.rhodonitepickaxe;
  import com.thebritishbrotherhood.rhodonite.Tools.rhodoniteshovel;
  import com.thebritishbrotherhood.rhodonite.armor.rhodonite.rhodonitelegs;
- import com.thebritishbrotherhood.rhodonite.items.HeartOfRhodonite;
- import com.thebritishbrotherhood.rhodonite.items.InfusedRhodoniteCrystal;
- import com.thebritishbrotherhood.rhodonite.items.RhodoniteCrystal;
- import com.thebritishbrotherhood.rhodonite.items.RhodoniteDust;
- import com.thebritishbrotherhood.rhodonite.items.RhodoniteIngot;
- import com.thebritishbrotherhood.rhodonite.items.RhodoniteNugget;
- import com.thebritishbrotherhood.rhodonite.items.RhodoniteSharpeningKit;
+ import com.thebritishbrotherhood.rhodonite.items.*;
  import com.thebritishbrotherhood.rhodonite.weapons.Parts.RhodoniteSwordHandle;
  import com.thebritishbrotherhood.rhodonite.weapons.Swords.RhodoniteSwordNoodle;
  import net.minecraft.init.SoundEvents;
@@ -41,6 +35,7 @@
    public static Item RhodoniteSharpeningKit;
    public static Item RhodoniteNugget;
    public static Item rhodoniteshovel;
+   public static Item ObsidianRod;
    public static Item.ToolMaterial rhodoniteswordA = EnumHelper.addToolMaterial("rhodonitesword", 1, 9556, 7.0F, 34.0F, 64);
    public static Item.ToolMaterial rhodoniteswordB = EnumHelper.addToolMaterial("RhodoniteSwordNoodle", 1, 1223, 7.0F, 12.0F, 0);
 
@@ -70,6 +65,7 @@
      RhodoniteSwordHandle = register(new RhodoniteSwordHandle());
      RhodoniteSwordBlade = register(new com.thebritishbrotherhood.rhodonite.weapons.Parts.RhodoniteSwordBlade());
      RhodoniteSharpeningKit = register(new RhodoniteSharpeningKit());
+     ObsidianRod = register(new ObsidianRod());
    }
 
 

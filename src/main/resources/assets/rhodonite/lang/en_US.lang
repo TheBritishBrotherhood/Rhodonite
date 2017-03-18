@@ -6,7 +6,6 @@ item.rhodonitesword.name=Rhodonite Sword
 item.rhodonitepickaxe.name=Rhodonite Pickaxe
 item.RhodoniteSwordNoodle.name=Rhodonite Sword (basic)
 item.RhodoniteBow.name=Rhodonite Bow
-item.rhodoniteshovel.name=Rhodonite Shovel
 
 //Items
 item.Saw.name=Saw
@@ -19,6 +18,8 @@ item.RhodoniteSwordHandle.name=Rhodonite Sword Handle
 item.RhodoniteSwordBlade.name=Rhodonite Sword Blade
 item.RhodoniteSharpeningKit.name=Rhodonite Sharpening Kit
 item.RhodoniteNugget.name=Rhodonite Nugget
+item.rhodoniteshovel.name=Rhodonite Shovel
+item.ObsidianRod.name=Obsidian Rod
 
 //Armor
 item.rhodonitehelmet.name=Rhodonite Helmet
